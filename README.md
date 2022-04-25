@@ -10,7 +10,7 @@
 0 CombatZoneResizeinstant 241 226 406 391
 0 HeartTeleport 320 304		
 
-→必须经过作者同意才可修改内容（B站ID：浩杨正气）
+
 
 特别感谢：Lazybone、Fashion cheese
 
